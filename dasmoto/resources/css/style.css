@@ -1,0 +1,31 @@
+h1, h3, p {
+  font-family: Verdana, sans-serif;
+}
+
+h1 {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
+  text-align: center;
+  font-size: 80px;
+  background-color: white;
+  color: #2f4f4f;
+}
+
+.frm {
+  background-color: #2f4f4f;
+  color: #bc8f8f
+}
+
+.brush {
+  background-color: #2f4f4f;
+  color: #bc8f8f;
+}
+
+.paint {
+  background-color: #2f4f4f;
+  color: #bc8f8f;
+}
+
+.price {
+  color: #5f9ea0;
+  font-style: italic;
+}
